@@ -2,23 +2,23 @@
         
               { "name" : "Cars" ,
                 "Photo" : "https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" , 
-                "categoryURL" : "https://play.google.com/store/apps/details?id=com.WallpaperApp.CarWallpapersHD"} ,
+                "categoryURL" : ""} ,
         
               { "name" : "Nature" ,
                 "Photo" : "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" , 
-                "categoryURL" : "https://play.google.com/store/apps/details?id=com.ancientdevelopers.naturewallpaperz"} ,
+                "categoryURL" : ""} ,
         
               { "name" : "Babys" ,
                 "Photo" : "https://images.pexels.com/photos/1648377/pexels-photo-1648377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" , 
-                "categoryURL" : "https://play.google.com/store/apps/details?id=com.babywallpaper.cutebaby.beautiful.girls.babywallpaper"}, 
+                "categoryURL" : ""}, 
          
               { "name" : "Sky" ,
                 "Photo" : "https://images.pexels.com/photos/3289880/pexels-photo-3289880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" , 
-                "categoryURL" : "https://play.google.com/store/apps/details?id=com.NightSkyWallpaper.naturewallpaper.beautiful.image.background"},
+                "categoryURL" : ""},
 
                { "name" : "Girls" ,
                  "Photo" : "https://images.pexels.com/photos/1987301/pexels-photo-1987301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" , 
-                 "categoryURL" : "https://play.google.com/store/apps/details?id=com.beautifull.girlswallpaper.nice.girlspictures.sweetgirly.wallpapers"} 
+                 "categoryURL" : ""} 
         
        
         
